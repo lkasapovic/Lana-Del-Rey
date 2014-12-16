@@ -1,0 +1,32 @@
+#h1 {
+    background-color: bisque;
+}
+index.html {
+    border-style: groove;
+    border-width: 4px;
+    padding: 35px;
+}
+
+.list-group-item {
+    border: 0;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+html {
+    text-align: center;
+    font-size: 65px;
+    }
+
+    
+body {
+    background-color:  bisque;
+    color: darkviolet;
+}
+
+
+h3 {
+    font-size: 17px;
+}
+
